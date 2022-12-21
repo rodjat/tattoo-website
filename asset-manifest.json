@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tattoo/static/css/main.2ec2c850.css",
+    "main.js": "/tattoo/static/js/main.5bcac61b.js",
+    "static/media/1.png": "/tattoo/static/media/1.96fed404483f59809791.png",
+    "static/media/video.png": "/tattoo/static/media/video.be4d7feeaa11b46e0bbb.png",
+    "static/media/2.png": "/tattoo/static/media/2.de5d04a8700d5133fa4e.png",
+    "static/media/FacelessMan1.png": "/tattoo/static/media/FacelessMan1.981dd27b7443987bdfa7.png",
+    "static/media/3.png": "/tattoo/static/media/3.7f9973f3acaa41717527.png",
+    "static/media/albonso.png": "/tattoo/static/media/albonso.b473b4a5043a62523450.png",
+    "static/media/Geners.png": "/tattoo/static/media/Geners.243302b570fcc8689619.png",
+    "static/media/Group.png": "/tattoo/static/media/Group.9ab7927777232d035ba6.png",
+    "static/media/TATTOO.png": "/tattoo/static/media/TATTOO.54c316a84db70d33ac49.png",
+    "index.html": "/tattoo/index.html",
+    "main.2ec2c850.css.map": "/tattoo/static/css/main.2ec2c850.css.map",
+    "main.5bcac61b.js.map": "/tattoo/static/js/main.5bcac61b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec2c850.css",
+    "static/js/main.5bcac61b.js"
+  ]
+}
