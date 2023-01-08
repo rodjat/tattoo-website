@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/tattoo-website/static/css/main.ca66bf72.css",
-    "main.js": "/tattoo-website/static/js/main.bff45b2a.js",
-    "static/media/1.png": "/tattoo-website/static/media/1.96fed404483f59809791.png",
-    "static/media/video.png": "/tattoo-website/static/media/video.be4d7feeaa11b46e0bbb.png",
-    "static/media/2.png": "/tattoo-website/static/media/2.de5d04a8700d5133fa4e.png",
-    "static/media/FacelessMan1.png": "/tattoo-website/static/media/FacelessMan1.981dd27b7443987bdfa7.png",
-    "static/media/3.png": "/tattoo-website/static/media/3.7f9973f3acaa41717527.png",
-    "static/media/albonso.png": "/tattoo-website/static/media/albonso.b473b4a5043a62523450.png",
-    "static/media/Geners.png": "/tattoo-website/static/media/Geners.243302b570fcc8689619.png",
-    "static/media/Group.png": "/tattoo-website/static/media/Group.9ab7927777232d035ba6.png",
-    "static/media/TATTOO.png": "/tattoo-website/static/media/TATTOO.54c316a84db70d33ac49.png",
-    "index.html": "/tattoo-website/index.html",
-    "main.ca66bf72.css.map": "/tattoo-website/static/css/main.ca66bf72.css.map",
-    "main.bff45b2a.js.map": "/tattoo-website/static/js/main.bff45b2a.js.map"
+    "main.css": "/static/css/main.097f357d.css",
+    "main.js": "/static/js/main.6fa57caf.js",
+    "static/media/MaskGroup.png": "/static/media/MaskGroup.7e7730471fd7c79bdffb.png",
+    "static/media/video.png": "/static/media/video.be4d7feeaa11b46e0bbb.png",
+    "static/media/FacelessMan.png": "/static/media/FacelessMan.43ae9af0285091f79498.png",
+    "static/media/style_2.png": "/static/media/style_2.c7691dfb630b2575003e.png",
+    "static/media/albonso.png": "/static/media/albonso.d31b2cba4e34fa8cc31d.png",
+    "static/media/style_3.png": "/static/media/style_3.a247b4e12857aa78dbec.png",
+    "static/media/Geners.png": "/static/media/Geners.243302b570fcc8689619.png",
+    "static/media/style_1.png": "/static/media/style_1.9c46a0824dd1c6bf72c6.png",
+    "static/media/Group.png": "/static/media/Group.9ab7927777232d035ba6.png",
+    "static/media/TATTOO.png": "/static/media/TATTOO.1f6c11882a342e761470.png",
+    "index.html": "/index.html",
+    "main.097f357d.css.map": "/static/css/main.097f357d.css.map",
+    "main.6fa57caf.js.map": "/static/js/main.6fa57caf.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca66bf72.css",
-    "static/js/main.bff45b2a.js"
+    "static/css/main.097f357d.css",
+    "static/js/main.6fa57caf.js"
   ]
 }
