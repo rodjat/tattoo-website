@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tattoo-website/static/css/main.097f357d.css",
-    "main.js": "/tattoo-website/static/js/main.3f83e7ec.js",
+    "main.css": "/tattoo-website/static/css/main.0757c001.css",
+    "main.js": "/tattoo-website/static/js/main.f1d0b36e.js",
     "static/media/MaskGroup.png": "/tattoo-website/static/media/MaskGroup.7e7730471fd7c79bdffb.png",
     "static/media/video.png": "/tattoo-website/static/media/video.be4d7feeaa11b46e0bbb.png",
     "static/media/FacelessMan.png": "/tattoo-website/static/media/FacelessMan.43ae9af0285091f79498.png",
@@ -13,11 +13,11 @@
     "static/media/Group.png": "/tattoo-website/static/media/Group.9ab7927777232d035ba6.png",
     "static/media/TATTOO.png": "/tattoo-website/static/media/TATTOO.1f6c11882a342e761470.png",
     "index.html": "/tattoo-website/index.html",
-    "main.097f357d.css.map": "/tattoo-website/static/css/main.097f357d.css.map",
-    "main.3f83e7ec.js.map": "/tattoo-website/static/js/main.3f83e7ec.js.map"
+    "main.0757c001.css.map": "/tattoo-website/static/css/main.0757c001.css.map",
+    "main.f1d0b36e.js.map": "/tattoo-website/static/js/main.f1d0b36e.js.map"
   },
   "entrypoints": [
-    "static/css/main.097f357d.css",
-    "static/js/main.3f83e7ec.js"
+    "static/css/main.0757c001.css",
+    "static/js/main.f1d0b36e.js"
   ]
 }
